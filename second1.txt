@@ -1,0 +1,2 @@
+Hello CMR Institute student!
+Welcome to Node JS lab
